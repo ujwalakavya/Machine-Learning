@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-Welcome to the repository for ML Projects, these assignments cover a broad spectrum of machine learning concepts and practical applications using Python library.
+Welcome to the ML Projects repository! These projects explore a wide range of machine learning concepts and practical applications using Python libraries.
 
 ---
 
