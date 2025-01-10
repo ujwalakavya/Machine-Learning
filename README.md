@@ -40,6 +40,3 @@ Welcome to the ML Projects repository! These projects explore a wide range of ma
    - **Key Focus:** Hyperparameter tuning, evaluation metrics comparison, and feature importance analysis.
 
 ---
-
-## Structure
-The repository is organized as follows:
