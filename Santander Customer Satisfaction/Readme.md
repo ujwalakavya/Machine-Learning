@@ -17,3 +17,5 @@ To build and evaluate machine learning models that predict customer satisfaction
 - **Kaggle Submissions:** Submitting predictions to Kaggle for benchmarking and comparison.
 
 ---
+
+Dataset available at: [Santander Customer Satisfaction Dataset - Kaggle](https://www.kaggle.com/c/santander-customer-satisfaction)
