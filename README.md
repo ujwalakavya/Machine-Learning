@@ -23,17 +23,17 @@ Welcome to the ML Projects repository! These projects explore a wide range of ma
    - **Objective:** Predict customer satisfaction using a decision tree classifier.
    - **Key Focus:** Exploratory Data Analysis, Decision Tree parameter tuning, and Kaggle submissions.
 
-### 2. **Fraud Detection & Target Marketing**
-   - **Objective:** Classify fraudulent transactions and target customer marketing using decision trees and random forests.
-   - **Key Focus:** Hyperparameter tuning, cross-validation, and model evaluation.
+### 2. **Target Marketing**
+   - **Objective:** Classify and identify target customer segments for effective marketing campaigns.
+   - **Key Focus:** Hyperparameter tuning, cross-validation, and model evaluation using decision trees and random forests.
 
 ### 3. **Homesite Quote Conversion**
    - **Objective:** Predict insurance plan purchases using ensemble methods and SMOTE.
    - **Key Focus:** Stacking multiple classifiers, handling imbalanced datasets, and Kaggle submissions.
 
-### 4. **Regression and Time Series Forecasting**
-   - **Objective:** Solve regression problems such as predicting house prices and restaurant revenues.
-   - **Key Focus:** Experimentation with regression methods, feature selection, and ensemble predictions.
+### 4. **House Price Prediction**
+   - **Objective:** Predict house prices using various regression techniques and feature selection.
+   - **Key Focus:** Experimentation with regression methods, ensemble predictions, and Kaggle submissions.
 
 ### 5. **Hepatitis Survival Prediction**
    - **Objective:** Classify survival outcomes using various classifiers and ensemble stacking.
