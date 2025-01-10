@@ -20,9 +20,3 @@ To build and evaluate machine learning models that predict the likelihood of a c
 
 ---
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/ML_First_Semester_Assignments.git
-   cd ML_First_Semester_Assignments/Assignment_3
-
