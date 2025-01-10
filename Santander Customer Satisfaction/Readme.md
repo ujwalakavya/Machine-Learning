@@ -1,21 +1,29 @@
 # Santander Customer Satisfaction
 
-This project aims to predict customer satisfaction using machine learning techniques. The dataset, provided by Kaggle, involves a binary classification problem where the target variable indicates whether a customer is satisfied or unsatisfied.
+This project focuses on predicting customer satisfaction using machine learning techniques. The dataset, sourced from a Kaggle competition, involves a binary classification problem where the target variable indicates whether a customer is satisfied or unsatisfied.
+
+Dataset available at: [Santander Customer Satisfaction - Kaggle](https://www.kaggle.com/c/santander-customer-satisfaction)
 
 ---
 
 ## Objective
-To build and evaluate machine learning models that predict customer satisfaction, leveraging Python's Scikit-learn library and exploratory data analysis (EDA).
+To explore and build machine learning models for predicting customer satisfaction, focusing on using Python's Scikit-learn library, exploratory data analysis (EDA), and decision tree classifiers.
 
 ---
 
 ## Key Concepts Covered
-- **Exploratory Data Analysis (EDA):** Analyzing data distribution, identifying patterns, and understanding feature importance.
-- **Decision Tree Classifier:** Training and tuning decision tree models to improve predictive performance.
-- **Hyperparameter Tuning:** Experimenting with parameters like tree depth, splitting criterion, and maximum leaf nodes to optimize the model.
-- **Model Evaluation:** Using metrics like accuracy and Kaggle scores to evaluate model performance.
-- **Kaggle Submissions:** Submitting predictions to Kaggle for benchmarking and comparison.
+- **Exploratory Data Analysis (EDA):**
+  - Analyzing data distributions, identifying patterns, and determining feature relevance.
+  - Identifying irrelevant features and justifying their exclusion.
 
----
+- **Decision Tree Classifier:**
+  - Training and validating decision tree models.
+  - Exploring the impact of changing parameters such as tree depth, splitting criterion, and leaf nodes.
 
-Dataset available at: [Santander Customer Satisfaction Dataset - Kaggle](https://www.kaggle.com/c/santander-customer-satisfaction)
+- **Hyperparameter Tuning:**
+  - Experimenting with multiple parameter configurations to optimize model performance.
+
+- **Model Evaluation:**
+  - Using metrics like accuracy and Kaggle rankings to evaluate and compare models.
+  - Creating an Excel table to summarize results from different models.
+
